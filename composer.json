@@ -1,0 +1,19 @@
+{
+    "name": "greenfieldr/surf-backups",
+    "description": "Backup tool based on TYPO3 Surf",
+    "require": {
+        "typo3/surf": "^2.0.0"
+    },
+    "authors": [
+        {
+            "name": "Marcel Wieser",
+            "email": "typo3dev@marcel-wieser.de"
+        }
+    ],
+    "minimum-stability": "beta",
+    "autoload": {
+        "psr-4": {
+            "Greenfieldr\\SurfBackups\\": "src"
+        }
+    }
+}
