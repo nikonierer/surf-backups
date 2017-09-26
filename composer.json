@@ -1,6 +1,7 @@
 {
     "name": "greenfieldr/surf-backups",
     "description": "Backup tool based on TYPO3 Surf",
+    "license": "GPL-3.0+",
     "require": {
         "typo3/surf": "^2.0.0"
     },
